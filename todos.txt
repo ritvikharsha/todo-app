@@ -2,3 +2,5 @@ clean the computer
 throw the trash
 play a game
 update the OS
+fetch me some water
+master python
