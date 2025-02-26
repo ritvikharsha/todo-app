@@ -2,7 +2,7 @@
 import functions
 import time
 
-now = time.strftime("%d %b - %Y , %H:%M:%S")
+now = time.strftime("%d %b-%Y  %H:%M:%S")
 print("It is",now)
 
 while True:
